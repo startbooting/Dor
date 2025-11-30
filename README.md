@@ -24,4 +24,7 @@ bash setup.sh
 ```
 python main.py
 ```
-
+7. nano.env
+```
+python main.py
+```
