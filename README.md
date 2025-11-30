@@ -14,7 +14,7 @@ git clone https://github.com/startbooting/Dor.git
 ```
 4. Open the folder
 ```
-cd me-cli-sunset
+cd Dor
 ```
 5. Setup
 ```
