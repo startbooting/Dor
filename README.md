@@ -10,7 +10,7 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli-sunset
+git clone https://github.com/startbooting/Dor.git
 ```
 4. Open the folder
 ```
